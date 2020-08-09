@@ -7,8 +7,8 @@
 
 I recommend using Conda environment. Create it with contained in repo yaml file and the following commands:
 ```
-conda env create --name tensorflow -f environment.yml
-conda activate tensorflow
+conda env create --name tf_gpu -f environment.yml
+conda activate tf_gpu
 ```
 
 Author: Tomasz Iżycki
